@@ -1,4 +1,4 @@
-# Science-Project
+# SCIENCE^Project
 Project about nice research
 
 ## Usage
