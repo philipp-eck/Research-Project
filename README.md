@@ -7,3 +7,4 @@ Project about nice research
 This project will be awesome
 
 ## Updates
+Project is no longer maintained.
